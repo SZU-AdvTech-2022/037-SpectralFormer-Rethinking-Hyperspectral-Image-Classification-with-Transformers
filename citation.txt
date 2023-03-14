@@ -1,0 +1,9 @@
+@article{REPO-037,
+    author = "Hong, Danfeng and Han, Zhu and Yao, Jing and Gao, Lianru and Zhang, Bing and Plaza, Antonio and Chanussot, Jocelyn",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    pages = "1--15",
+    publisher = "IEEE",
+    title = "{SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers}",
+    volume = "60",
+    year = "2021"
+}
